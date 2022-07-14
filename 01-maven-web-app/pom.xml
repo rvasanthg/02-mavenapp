@@ -17,18 +17,7 @@
     </dependency>
   </dependencies>
 
-  <distributionManagement>  
-	<releaseRepository>
-        <id>nexus</id>
-        <name>vasanth-release-repo</name>
-        <url>13.233.172.66:8081/repository/vasanth-release-repo/</url>
-	</releaseRepository>
-	
-	<snapshotRepository>
-	  <id>nexus</id>
-	  <name>vasanth-snapshot-repo</name>
-        <url> http://13.233.172.66:8081/repository/vasanth-snapshot-repo/</url>
-	</snapshotRepository>
+
 
 </distributionManagement>
 
